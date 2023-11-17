@@ -1,1 +1,3 @@
 ok ini adalah testing
+
+ini adalah bagian dari local kita
