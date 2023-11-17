@@ -1,3 +1,10 @@
 ok ini adalah testing
 
 ini adalah bagian dari local kita
+
+ini akan ditambahkan kembali ya
+
+1
+1
+2
+2
